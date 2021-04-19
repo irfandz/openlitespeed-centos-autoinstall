@@ -4,7 +4,7 @@ Tested and work with 2GB RAM VM in [Digitalocean](https://m.do.co/c/c0809edd09b1
 ## Usage
 Copy and Paste this line in your fresh install Centos7
 ```
-bash <( curl -k https://raw.githubusercontent.com/tujuhion/openlitespeed-centos-autoinstall/master/install.sh )
+bash <( curl -k https://raw.githubusercontent.com/irfandz/openlitespeed-centos-autoinstall/master/install.sh )
 ```
 
 This scripts will install 
