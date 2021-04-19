@@ -39,7 +39,7 @@ mkdir /home/defdomain
 mkdir /home/defdomain/html
 mkdir /home/defdomain/logs
 yum -y install openlitespeed
-sudo yum -y install mariadb-server mariadb-client
+sudo yum -y install mariadb-server
 
 # Install PHP 73
 yum -y install lsphp73 lsphp73-common lsphp73-mysqlnd lsphp73-process lsphp73-gd lsphp73-mbstring \
